@@ -1,0 +1,4 @@
+sensor_msgs/JointState start
+geometry_msgs/PoseStamped goal
+---
+moveit_msgs/RobotTrajectory[] trajectories
